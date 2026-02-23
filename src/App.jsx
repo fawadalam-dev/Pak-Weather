@@ -180,7 +180,7 @@ export default function App() {
 
             <div className="weather-details">
               <div className="detail-card">
-                <div className="detail-icon">💧</div>
+                <div className="detail-icon"></div>
                 <div className="detail-label">Humidity</div>
                 <div className="detail-value">{weather.humidity}%</div>
               </div>
